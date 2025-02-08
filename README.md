@@ -8,12 +8,13 @@ The manuscript presents the Menoufia University Machine Learning Dataset for Min
 We believe that the research topic addressed in this paper exactly matches the scope of the Computers & Geosciences Journal. We also believe that the findings achieved in this paper will help in providing an important resource for accurate machine-based classification of Minerals in Microscopic Thin Section Rock Images. 
 
 
-![image](https://github.com/user-attachments/assets/e8c67e04-bc7c-4573-b7c1-e3807effe010)
+![image](https://github.com/user-attachments/assets/a9765e9d-0103-4c07-a440-e9ae2753a823)
 
-![image](https://github.com/user-attachments/assets/22fe9b77-75c3-41b3-bfb2-a8f3fc1a5e92)
+![image](https://github.com/user-attachments/assets/4f6af547-2d54-4ddd-9637-4a83533165ce)
 
-![image](https://github.com/user-attachments/assets/a2cbe8b7-657a-403e-a092-f72cf78b128d)
+![image](https://github.com/user-attachments/assets/22b46dbc-99fd-4a25-9345-9ba57ac2501e)
 
-![image](https://github.com/user-attachments/assets/a557ef47-9219-427b-bd03-e0485c840892)
+![image](https://github.com/user-attachments/assets/45e6f056-00de-4ec4-9a8e-a17055af366e)
+
 
 ![image](https://github.com/user-attachments/assets/63e41d1a-f335-4cab-b95e-e0a92803b409)
